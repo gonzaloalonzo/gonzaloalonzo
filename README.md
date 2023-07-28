@@ -1,4 +1,4 @@
-<h1 align="center">Hi :v:, I am Gonzalo Alonzo Mancilla⚓ </h1>
+<h1 align="center">Hi :v:, I am Gonzalo Alonzo Mancilla </h1>
 <h3 align="center">I am a Web Developer, from Chile </h3>
 
 
